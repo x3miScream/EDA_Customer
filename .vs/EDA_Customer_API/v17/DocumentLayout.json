@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:54:30.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
