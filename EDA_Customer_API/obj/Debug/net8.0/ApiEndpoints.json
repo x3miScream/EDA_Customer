@@ -1,5 +1,41 @@
 [
   {
+    "ContainingType": "EDA_Customer_API.Controllers.CustomerController",
+    "Method": "Get",
+    "RelativePath": "api/v1/customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EDA_Customer_API.DTO.CustomerDto, EDA_Customer_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EDA_Customer_API.Controllers.CustomerController",
+    "Method": "Post",
+    "RelativePath": "api/v1/customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerDto",
+        "Type": "EDA_Customer_API.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EDA_Customer_API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

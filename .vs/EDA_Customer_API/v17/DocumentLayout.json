@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\migrations\\20250906074001_initial_db_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\migrations\\20250906074001_initial_db_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\migrations\\customerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\migrations\\customerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|d:\\it\\microservices\\eda_customer_inventory\\eda_customer_api\\eda_customer_api\\context\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C9F26-4C72-4EC9-94F1-5F7E49357590}|EDA_Customer_API\\EDA_Customer_API.csproj|solutionrelative:eda_customer_api\\context\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "EDA_Customer_API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomerDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Migrations\\CustomerDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Migrations\\CustomerDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Migrations\\CustomerDBContextModelSnapshot.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Migrations\\CustomerDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T06:54:30.326Z",
+              "WhenOpened": "2025-09-06T07:40:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250906074001_Initial_DB_Creation.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Migrations\\20250906074001_Initial_DB_Creation.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Migrations\\20250906074001_Initial_DB_Creation.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Migrations\\20250906074001_Initial_DB_Creation.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Migrations\\20250906074001_Initial_DB_Creation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T07:40:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T07:37:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\appsettings.json",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\appsettings.json",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\appsettings.json",
+              "RelativeToolTip": "EDA_Customer_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T07:22:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\DTO\\CustomerDto.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "EDA_Customer_API\\DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:49:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDBContext.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Context\\CustomerDBContext.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Context\\CustomerDBContext.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Context\\CustomerDBContext.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Context\\CustomerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:27:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Data\\Product.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Data\\Product.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:25:28.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Data\\Customer.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Data\\Customer.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Data\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:25:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Program.cs",
+              "RelativeDocumentMoniker": "EDA_Customer_API\\Program.cs",
+              "ToolTip": "D:\\IT\\MicroServices\\EDA_Customer_Inventory\\EDA_Customer_API\\EDA_Customer_API\\Program.cs",
+              "RelativeToolTip": "EDA_Customer_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:13:11.253Z",
               "EditorCaption": ""
             }
           ]

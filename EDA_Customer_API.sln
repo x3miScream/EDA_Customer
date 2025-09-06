@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDA_Customer_API", "EDA_Customer_API\EDA_Customer_API.csproj", "{359C9F26-4C72-4EC9-94F1-5F7E49357590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDA_Inventory_API", "EDA_Inventory_API\EDA_Inventory_API.csproj", "{B6ACA107-FE58-4EB6-8E4B-EFAAFD33C64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDA_Shared", "EDA_Shared\EDA_Shared.csproj", "{36EA20EC-7112-4B53-B842-1DCDB2069FB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{359C9F26-4C72-4EC9-94F1-5F7E49357590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359C9F26-4C72-4EC9-94F1-5F7E49357590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359C9F26-4C72-4EC9-94F1-5F7E49357590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ACA107-FE58-4EB6-8E4B-EFAAFD33C64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ACA107-FE58-4EB6-8E4B-EFAAFD33C64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ACA107-FE58-4EB6-8E4B-EFAAFD33C64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ACA107-FE58-4EB6-8E4B-EFAAFD33C64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EA20EC-7112-4B53-B842-1DCDB2069FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA20EC-7112-4B53-B842-1DCDB2069FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA20EC-7112-4B53-B842-1DCDB2069FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA20EC-7112-4B53-B842-1DCDB2069FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

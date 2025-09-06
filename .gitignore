@@ -1,0 +1,8 @@
+.vs/
+EDA_Customer_API/bin/
+EDA_Customer_API/obj/
+EDA_Inventory_API/bin/
+EDA_Inventory_API/obj/
+EDA_Shared/bin/
+EDA_Shared/obj/
+packages/
