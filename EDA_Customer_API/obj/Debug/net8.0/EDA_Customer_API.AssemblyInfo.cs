@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EDA_Customer_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b57994731ae5d94372472588746e73f81a52b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671a20c03c24affae3f3fdf6fce12ca5f00956e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EDA_Customer_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EDA_Customer_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

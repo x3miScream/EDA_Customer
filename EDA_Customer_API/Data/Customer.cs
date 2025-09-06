@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EDA_Customer_API.Data
 {
+    [Table("EDA_Customer")]
     public class Customer
     {
         [Key]

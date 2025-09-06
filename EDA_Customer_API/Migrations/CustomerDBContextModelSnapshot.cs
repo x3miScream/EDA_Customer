@@ -42,7 +42,7 @@ namespace EDA_Customer_API.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Customer");
+                    b.ToTable("EDA_Customer");
                 });
 
             modelBuilder.Entity("EDA_Customer_API.Data.Product", b =>
@@ -53,7 +53,7 @@ namespace EDA_Customer_API.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<Guid>("Guid")
+                    b.Property<Guid>("ProductId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Name")
@@ -65,7 +65,7 @@ namespace EDA_Customer_API.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.ToTable("EDA_Product");
                 });
 #pragma warning restore 612, 618
         }

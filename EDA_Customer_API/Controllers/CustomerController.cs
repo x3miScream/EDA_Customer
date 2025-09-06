@@ -8,7 +8,7 @@ namespace EDA_Customer_API.Controllers
 {
 
     [ApiController]
-    [Route("api/v1/customer")]
+    [Route("api/v1/customers")]
     public class CustomerController : ControllerBase
     {
         private readonly CustomerDBContext _dbContext;

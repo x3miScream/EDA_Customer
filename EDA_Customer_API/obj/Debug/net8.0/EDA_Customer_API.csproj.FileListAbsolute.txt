@@ -169,4 +169,4 @@ D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\EDA_Customer_API\bin
 D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\EDA_Customer_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\EDA_Customer_API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\EDA_Customer_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\EDA_Customer_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\IT\MicroServices\EDA_Customer_Inventory\EDA_Customer_API\eda_customer_api\obj\Debug\net8.0\EDA_Customer_API.sourcelink.json

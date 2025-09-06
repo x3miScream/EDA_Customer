@@ -34,7 +34,7 @@ if (app.Environment.IsDevelopment())
         dbContext.Database.EnsureCreated();
     }
 
-        app.UseSwagger();
+    app.UseSwagger();
     app.UseSwaggerUI();
 }
 
